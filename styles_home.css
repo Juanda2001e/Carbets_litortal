@@ -185,7 +185,7 @@ nav {
 }
 /*--------------------------Movil screeam min--------------------------------------------*/
 
-@media (max-width:506px){
+@media (max-width:560px){
     body{
         width: 100%;
         height: 100vh;
@@ -352,4 +352,3 @@ nav {
 }
 
 }
-
